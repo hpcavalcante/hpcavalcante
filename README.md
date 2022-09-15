@@ -1,6 +1,6 @@
 ## Hi, welcome to my profile.
 #### Cadet at 42SP
-![](https://github-readme-stats.vercel.app/api?username=hpcavalcante)
+[![hepiment's 42 stats](https://badge42.vercel.app/api/v2/cl83crh8z00840hl0gft9wzjy/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 ## 42cursus
 >- [basecamp](https://github.com/hpcavalcante/42-Basecamp) - codes for Shell and from C libraries
 ### Phase 1
@@ -9,9 +9,9 @@
 >- [ft_printf](https://github.com/hpcavalcante/42-School-Ftprintf) - implementation of prinft function
 >- [Born2BeRoot](https://github.com/hpcavalcante/42-School-Born2beroot) - virtual machines and servers
 >- [So_Long](https://github.com/hpcavalcante/42-School-So_Long) - create a simple game in c. learn how to handle with graphics and window management.
-<div style="display: inline_block">
-  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpcavalcante&layout=compact&langs_count=7&"/><br><br><br><br><br><br>
-  </div>
-</div>
+
+<p><img width="350px"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hpcavalcante&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF" alt="hpcavalcante"/>
+<p>
+<p>
+&nbsp;<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=hpcavalcante&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF" alt="hpcavalcante" /></p>
 
