@@ -10,8 +10,8 @@
 >- [Born2BeRoot](https://github.com/hpcavalcante/42-School-Born2beroot) - virtual machines and servers
 >- [So_Long](https://github.com/hpcavalcante/42-School-So_Long) - create a simple game in c. learn how to handle with graphics and window management.
 
-<p><img width="350px"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hpcavalcante&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF" alt="hpcavalcante"/>
+<p><img width="350px"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hpcavalcante&show_icons=true&theme=github_dark" alt="hpcavalcante"/>
 <p>
 <p>
-&nbsp;<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=hpcavalcante&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF" alt="hpcavalcante" /></p>
+&nbsp;<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=hpcavalcante&show_icons=true&theme=github_dark" alt="hpcavalcante" /></p>
 
