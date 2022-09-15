@@ -9,6 +9,7 @@
 >- [ft_printf](https://github.com/hpcavalcante/42-School-Ftprintf) - implementation of prinft function
 >- [Born2BeRoot](https://github.com/hpcavalcante/42-School-Born2beroot) - virtual machines and servers
 >- [So_Long](https://github.com/hpcavalcante/42-School-So_Long) - create a simple game in c. learn how to handle with graphics and window management.
+>- [Pipex](https://github.com/hpcavalcante/42-School-Pipex) - simulate pipes just like shell. learn how to handle with pipes.
 
 <p><img width="350px"align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hpcavalcante&show_icons=true&theme=github_dark" alt="hpcavalcante"/>
 <p>
