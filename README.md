@@ -4,12 +4,14 @@
 ## 42cursus
 >- [basecamp](https://github.com/hpcavalcante/42-Basecamp) - codes for Shell and from C libraries
 ### Phase 1
->- [libft](https://github.com/hpcavalcante/42-School-Libft) - first C library [![hepiment's 42 Libft Score]
->- [get_next_line](https://github.com/hpcavalcante/42-School-GNL) - implementation of get_next_line function [![hepiment's 42 get_next_line Score]
->- [ft_printf](https://github.com/hpcavalcante/42-School-Ftprintf) - implementation of prinft function [![hepiment's 42 ft_printf Score]
->- [Born2BeRoot](https://github.com/hpcavalcante/42-School-Born2beroot) - virtual machines and servers [![hepiment's 42 Born2beroot Score]
->- [So_Long](https://github.com/hpcavalcante/42-School-So_Long) - create a simple game in c. learn how to handle with graphics and window management. [![hepiment's 42 so_long Score]
->- [Pipex](https://github.com/hpcavalcante/42-School-Pipex) - simulate pipes just like shell. learn how to handle with pipes. [![hepiment's 42 pipex Score]
+>- [libft](https://github.com/hpcavalcante/42-School-Libft) - first C library
+>- [get_next_line](https://github.com/hpcavalcante/42-School-GNL) - implementation of get_next_line function 
+>- [ft_printf](https://github.com/hpcavalcante/42-School-Ftprintf) - implementation of prinft function 
+>- [Born2BeRoot](https://github.com/hpcavalcante/42-School-Born2beroot) - virtual machines and servers 
+>- [So_Long](https://github.com/hpcavalcante/42-School-So_Long) - create a simple game in c. learn how to handle with graphics and window management. 
+>- [Pipex](https://github.com/hpcavalcante/42-School-Pipex) - simulate pipes just like shell. learn how to handle with pipes. 
+>- [Push_Swap](https://github.com/hpcavalcante/42-School-Push_Swap) - 
+>- [MiniShell](https://github.com/hpcavalcante/42-School-Minishell) -
 <br>
 <div align="center">
   <a href="https://github.com/hpcavalcante">
@@ -17,7 +19,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpcavalcante&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=hpcavalcante&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
 
 
