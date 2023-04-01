@@ -10,6 +10,8 @@
 >- [Born2BeRoot](https://github.com/hpcavalcante/42-School-Born2beroot) - virtual machines and servers 
 >- [So_Long](https://github.com/hpcavalcante/42-School-So_Long) - create a simple game in c. learn how to handle with graphics and window management. 
 >- [Pipex](https://github.com/hpcavalcante/42-School-Pipex) - simulate pipes just like shell. learn how to handle with pipes. 
+
+### Phase 2
 >- [Push_Swap](https://github.com/hpcavalcante/42-School-Push_Swap) - 
 >- [MiniShell](https://github.com/hpcavalcante/42-School-Minishell) -
 >- [Cub3D](https://github.com/hmigl/cub3D) -
