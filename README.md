@@ -1,6 +1,10 @@
 ## Hi, welcome to my profile.
 #### Cadet at 42SP
-[![hepiment's 42 stats](https://badge42.vercel.app/api/v2/cl83crh8z00840hl0gft9wzjy/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ## 42cursus
 >- [basecamp](https://github.com/hpcavalcante/42-Basecamp) - codes for Shell and from C libraries
 ### Phase 1
