@@ -6,9 +6,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 42cursus
->- [basecamp](https://github.com/hpcavalcante/42-Basecamp) - codes for Shell and from C libraries
+>- [basecamp](https://github.com/hpcavalcante/42-Basecamp) - Learning Shell and C programming basics.
 ### Phase 1
->- [libft](https://github.com/hpcavalcante/42-School-Libft) - first C library
+>- [libft](https://github.com/hpcavalcante/42-School-Libft) - first library with many useful functions in C
 >- [get_next_line](https://github.com/hpcavalcante/42-School-GNL) - implementation of get_next_line function 
 >- [ft_printf](https://github.com/hpcavalcante/42-School-Ftprintf) - implementation of prinft function 
 >- [Born2BeRoot](https://github.com/hpcavalcante/42-School-Born2beroot) - virtual machines and servers 
