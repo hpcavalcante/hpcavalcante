@@ -19,6 +19,10 @@
 >- [Push_Swap](https://github.com/hpcavalcante/42-School-Push_Swap) - 
 >- [MiniShell](https://github.com/hpcavalcante/42-School-Minishell) -
 >- [Cub3D](https://github.com/hmigl/cub3D) -
+
+### Phase 3
+>- [CPP](https://github.com/hpcavalcante/42-School-CPP) -
+>- [Inception](https://github.com/hpcavalcante/42-School-Inception) -
 <br>
 <div align="center">
   <a href="https://github.com/hpcavalcante">
