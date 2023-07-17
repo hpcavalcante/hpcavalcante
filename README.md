@@ -1,9 +1,18 @@
 ## Hi, welcome to my profile.
 #### Cadet at 42SP
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### Reach reach me at [linkedin.com](https://linkedin.com/in/hpcavalcante)
+<h3 align="center">Languages and Tools : </h3>
+<p align="center">
+	<!-- C -->
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+	<!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <!-- Docker -->
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <!-- Python -->
+	<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="docker" width="40" height="40"/> </a> 
+  <!-- Linux -->
+	<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="docker" width="40" height="40"/> </a> 
 
 ## 42cursus
 >- [basecamp](https://github.com/hpcavalcante/42-Basecamp) - Learning Shell and C programming basics.
