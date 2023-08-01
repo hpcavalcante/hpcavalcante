@@ -15,23 +15,23 @@
 	<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" alt="docker" width="40" height="40"/> </a> 
 
 ## 42cursus
->- [basecamp](https://github.com/hpcavalcante/42-Basecamp) - Learning Shell and C programming basics.
-### Phase 1
->- [libft](https://github.com/hpcavalcante/42-School-Libft) - first library with many useful functions in C
->- [get_next_line](https://github.com/hpcavalcante/42-School-GNL) - implementation of get_next_line function 
->- [ft_printf](https://github.com/hpcavalcante/42-School-Ftprintf) - implementation of prinft function 
->- [Born2BeRoot](https://github.com/hpcavalcante/42-School-Born2beroot) - virtual machines and servers 
->- [So_Long](https://github.com/hpcavalcante/42-School-So_Long) - create a simple game in c. learn how to handle with graphics and window management. 
->- [Pipex](https://github.com/hpcavalcante/42-School-Pipex) - simulate pipes just like shell. learn how to handle with pipes. 
+- [basecamp](https://github.com/hpcavalcante/42-Basecamp) - Learning Shell and C programming basics.
+- ### Phase 1
+	- [libft](https://github.com/hpcavalcante/42-School-Libft) - first library with many useful functions in C
+	- [get_next_line](https://github.com/hpcavalcante/42-School-GNL) - implementation of get_next_line function 
+	- [ft_printf](https://github.com/hpcavalcante/42-School-Ftprintf) - implementation of prinft function 
+	- [Born2BeRoot](https://github.com/hpcavalcante/42-School-Born2beroot) - virtual machines and servers 
+	- [So_Long](https://github.com/hpcavalcante/42-School-So_Long) - create a simple game in c. learn how to handle with graphics and window management. 
+	- [Pipex](https://github.com/hpcavalcante/42-School-Pipex) - simulate pipes just like shell. learn how to handle with pipes. 
 
-### Phase 2
->- [Push_Swap](https://github.com/hpcavalcante/42-School-Push_Swap) - 
->- [MiniShell](https://github.com/hpcavalcante/42-School-Minishell) -
->- [Cub3D](https://github.com/hmigl/cub3D) -
+- ### Phase 2
+	- [Push_Swap](https://github.com/hpcavalcante/42-School-Push_Swap) - 
+	- [MiniShell](https://github.com/hpcavalcante/42-School-Minishell) -
+	- [Cub3D](https://github.com/hmigl/cub3D) -
 
-### Phase 3
->- [CPP](https://github.com/hpcavalcante/42-School-CPP) -
->- [Inception](https://github.com/hpcavalcante/42-School-Inception) -
+- ### Phase 3
+	- [CPP](https://github.com/hpcavalcante/42-School-CPP) -
+	- [Inception](https://github.com/hpcavalcante/42-School-Inception) -
 <br>
 <div align="center">
   <a href="https://github.com/hpcavalcante">
