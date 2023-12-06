@@ -1,6 +1,6 @@
 ## Hi, welcome to my profile.
 #### Cadet at 42SP
-#### Reach reach me at [linkedin.com](https://linkedin.com/in/hpcavalcante)
+#### Reach me at [linkedin.com](https://linkedin.com/in/hpcavalcante)
 <h3 align="center">Languages and Tools : </h3>
 <p align="center">
 	<!-- C -->
