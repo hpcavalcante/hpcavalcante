@@ -31,7 +31,7 @@ resource "aws_lb" "internal_alb" {
 # Criar Target Group para o ALB
 resource "aws_lb_target_group" "ecs_target_group" {
   name     = "ecs-target-group"
-  port     = 4231 # A porta do serviço
+  port     = 4231 # A porta do serviço principal
   protocol = "HTTP"
   vpc_id   = var.vpc_id
 
@@ -44,10 +44,10 @@ resource "aws_lb_target_group" "ecs_target_group" {
   }
 }
 
-# Criar listener para o ALB
+# Criar listener para o ALB na porta 4231
 resource "aws_lb_listener" "http_listener" {
   load_balancer_arn = aws_lb.internal_alb.arn
-  port              = 80
+  port              = 4231  # Ajustado para a porta do serviço
   protocol          = "HTTP"
 
   default_action {
@@ -74,7 +74,7 @@ resource "aws_lb" "nlb" {
 # Criar Target Group para o NLB
 resource "aws_lb_target_group" "nlb_target_group" {
   name     = "nlb-target-group"
-  port     = 80  # A porta do NLB
+  port     = 4231  # Ajuste para a porta correta do NLB
   protocol = "TCP"
   vpc_id   = var.vpc_id
 
@@ -86,10 +86,10 @@ resource "aws_lb_target_group" "nlb_target_group" {
   }
 }
 
-# Criar listener para o NLB
+# Criar listener para o NLB na porta 4231
 resource "aws_lb_listener" "nlb_listener" {
   load_balancer_arn = aws_lb.nlb.arn
-  port              = 80
+  port              = 4231  # Ajustado para a porta do NLB
   protocol          = "TCP"
 
   default_action {
